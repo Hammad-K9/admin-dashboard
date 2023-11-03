@@ -326,6 +326,16 @@ h3 {
   padding: 0.5rem;
   display: grid;
   grid-template-columns: 3.5fr 10fr;
+  align-items: center;
+  cursor: pointer;
+}
+
+.trend .account {
+  font-size: 0.9rem;
+}
+
+.username {
+  font-weight: 500;
 }
 
 .user-title {
